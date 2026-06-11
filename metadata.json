@@ -1,0 +1,6 @@
+{
+  "name": "Essenza Clínica Estética",
+  "description": "Clínica de estética premium especializada em cuidado facial, skincare, massagens e tratamentos corporais com agendamento simples pelo WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
